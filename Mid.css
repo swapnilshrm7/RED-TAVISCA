@@ -1,18 +1,13 @@
 body
 { 
-    width:1024px;
       background-color: white;
 }
 .resume
-{
-position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+{     
+    margin:0 auto;
 
-    margin: auto;
-width:1024px;
+  width: 1024px;
+  height:1050px;
 
 }	
 .externalDiv
@@ -133,6 +128,7 @@ img
 	padding-left:30px;
 	margin: 0 auto;
 	padding-top:30px;
+height:300px;
 }
 .peaches
 {
@@ -153,13 +149,14 @@ div.full
   padding-top:25px;
   width:1024px;
   margin:0 auto;
+height:0px;
 }
 
 div.entire
 {
     display:inline-block;
 position:relative;
-top:-380px;
+top:-50px;
 left:-5px;
 }
 
@@ -198,7 +195,7 @@ font-size:130%;
 }*/
 div.entire1 {
 position:relative;
-top:-520px;
+top:-160px;
 left:-5px;
 }
 
